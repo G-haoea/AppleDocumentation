@@ -1,4 +1,16 @@
 # Content
+* [Scene-Based](#Scene-Based)     
+  * [Intro](#Intro)     
+  * [State transitions](#State-transitions)     
+* [App-Based](#App-Based)     
+  * [Intro](#Intro)     
+  * [State transtitions](#State-transtitions)     
+* [Details for app-base life-cycle](#Details-for-app-base-life-cycle)     
+  * [Load app into foreground](#Load-app-into-foreground)     
+  * [Load app into background](#Load-app-into-background)     
+  * [Respond interrupt](#Respond-interrupt)     
+  * [Move into background](#Move-into-background)     
+  * [Return back foreground](#Return-back-foreground)     
 
 # Scene-Based
 ## Intro
@@ -33,7 +45,7 @@
 * When launching to the foreground, the system transitions the app to the active state automatically;
 * After that, the state fluctuates between active and background until the app terminates;
 
-# Details for app-base life-cycle
+# Details for app base life cycle
 ## Load app into foreground 
 ![load app into foreground](https://github.com/iii17-grace/AppleDocumentation/blob/master/Images/load%20app%20into%20foreground.png)
 
