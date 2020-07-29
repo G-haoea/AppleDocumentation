@@ -396,7 +396,7 @@ func signal() -> Int
 ```swift
 let semaphore = DispatchSemaphore(value: 1)
 
-let queue = DispatchQueue(label: "com.ffib.blog.queue", qos: .utility, attributes: .concurrent)
+let queue = DispatchQueue(label: "com.iii17-grace.queue", qos: .utility, attributes: .concurrent)
 
 
 for i in 0..<5 {
@@ -423,7 +423,7 @@ for i in 0..<5 {
 
 let semaphore = DispatchSemaphore(value: 1)
 
-let queue = DispatchQueue(label: "com.ffib.blog.queue", qos: .utility, attributes: .concurrent)
+let queue = DispatchQueue(label: "com.iii17-grace.queue", qos: .utility, attributes: .concurrent)
 
 
 for i in 0..<5 {
