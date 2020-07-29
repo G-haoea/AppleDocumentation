@@ -56,7 +56,7 @@
 ![something interrupts then into inactive](https://github.com/iii17-grace/AppleDocumentation/blob/master/Images/something%20interrupts%20then%20into%20inactive.png)
 
 ## Move into background
-![move into background](https://github.com/iii17-grace/AppleDocumentation/blob/master/Images/move%20into%20background.pngg)
+![move into background](https://github.com/iii17-grace/AppleDocumentation/blob/master/Images/move%20into%20background.png)
 
 ## Return back foreground
 ![return back foreground](https://github.com/iii17-grace/AppleDocumentation/blob/master/Images/return%20back%20foreground.png)
